@@ -1,0 +1,6 @@
+password
+12345
+supersecurepassword
+password!
+abcd
+abcd1234
